@@ -236,4 +236,4 @@ This repository serves as the official landing page for Freebox Jukebox. The sof
 **Get the most recent version of Freebox Jukebox today!**
 
 ---
-**Last updated:** 2026-10-20 14:42:42 UTC
+**Last updated:** 2026-10-20 18:56:39 UTC
